@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hi there! 👋 </h1>
 <h3 align="center">I'm Sofiyyah, a passionate Software developer.</h3>
 
 <img align="right" alt = "Coding" width="400" src = "https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
