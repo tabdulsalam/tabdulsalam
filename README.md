@@ -1,7 +1,6 @@
 
-<img align="center" alt = "Coding" width="90%" height="250" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/05/687474703a2f2f692e696d6775722e636f6d2f304f50346f6f642e676966.gif">
 
-<h1 align="center">Hi 👋 </h1>
+<h1 align="center">Hi there 👋 </h1>
 <h3 align="center">I'm Sofiyyah, a passionate Software developer.</h3>
 
 <img align="right" alt = "Coding" width="400" src = "https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
