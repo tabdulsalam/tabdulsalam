@@ -1,4 +1,5 @@
 
+![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/05/687474703a2f2f692e696d6775722e636f6d2f304f50346f6f642e676966.gif)
 <h1 align="center">Hi 👋 </h1>
 <h3 align="center">I'm Sofiyyah, a passionate Software developer.</h3>
 
