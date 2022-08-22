@@ -3,7 +3,7 @@
 <h1 align="center">Hi there! 👋 </h1>
 <h3 align="center">I'm Sofiyyah, a passionate Software developer.</h3>
 
-<img  align="center" height="400" alt = "Coding" width="90%" src = "https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
+<img   align="right" alt = "Coding" width="400" src = "https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiyyah1&label=Profile%20views&color=0e75b6&style=flat" alt="sofiyyah1" /> </p>
 
