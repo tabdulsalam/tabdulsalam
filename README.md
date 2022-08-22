@@ -1,10 +1,10 @@
-[![MasterHead](https://www.ict-pulse.com/wp-content/uploads/2020/09/Source-Code-Software-Computer-Programming-Language-Elchinator-Pixabay-.jpg)]
+
 <h1 align="center">Hi 👋 </h1>
 <h3 align="center">I'm Sofiyyah, a passionate Software developer.</h3>
 
-<img src = "https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
+<img align="right" alt = "Coding" width="400" src = "https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
 
-<p align="left"> <img align="right" alt = "Coding" width="400" src="https://komarev.com/ghpvc/?username=sofiyyah1&label=Profile%20views&color=0e75b6&style=flat" alt="sofiyyah1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiyyah1&label=Profile%20views&color=0e75b6&style=flat" alt="sofiyyah1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/taiwo_sofiyyah" target="blank"><img src="https://img.shields.io/twitter/follow/taiwo_sofiyyah?logo=twitter&style=for-the-badge" alt="taiwo_sofiyyah" /></a> </p>
 
