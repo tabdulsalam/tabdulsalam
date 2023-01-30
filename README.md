@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiyyah1&label=Profile%20views&color=0e75b6&style=flat" alt="sofiyyah1" /> </p>
 
 
-- 🔭 I’m currently working on **a Full-Stack E-Commerce Website.**
+<!-- - 🔭 I’m currently working on **a Full-Stack E-Commerce Website.** -->
 
 - 👯 I’m looking to collaborate on **web development project**
 
